@@ -1,17 +1,16 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 html{
-    font-size: 62.5%;
-    
+    font-size: 82.5%;
 }
 body{
-    background-color: rgb(20, 66, 67);
     width: 100vw;
     height: 100vh;
+    background: linear-gradient(45deg,#0a0a0a,#3a4452);
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }

@@ -1,8 +1,12 @@
-import Divs from "./component2/Divs";
+import React from 'react'
+
+import Grid from './Components/Grid';
+
 const App = () => {
   return (
     <div>
-    <Divs/>
+        <Grid/>
+  
     </div>
   )
 }
