@@ -1,14 +1,11 @@
 import React from 'react'
-
 import Grid from './Components/Grid';
-
 const App = () => {
   return (
     <div>
-        <Grid/>
-  
+      <Grid />
     </div>
   )
 }
 
-export default App ;
+export default App;
